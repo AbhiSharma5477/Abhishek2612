@@ -1,0 +1,9 @@
+.social-media{
+    display: flex;
+    justify-content: center;
+}
+.icon{
+    display: inline;
+    padding-inline: 10px;
+    
+}
